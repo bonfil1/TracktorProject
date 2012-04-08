@@ -1,3 +1,11 @@
+HomeBundle:
+    resource: "@HomeBundle/Resources/config/routing.yml"
+    prefix:   /
+    
+pagina_ayuda:
+    pattern:  /ayuda
+    defaults: { _controller: HomeBundle:Default:ayuda }
+
 # Internal routing configuration to handle ESI
 #_internal:
 #   resource: "@FrameworkBundle/Resources/config/routing/internal.xml"
