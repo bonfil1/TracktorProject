@@ -1,11 +1,8 @@
 Tracktor Project
 ========================
-/**
-* Tracktor Project
-*  @author: Jose Angel Bonfil Evia
-*  @date:  06/04/2012
-*  @description: This is a track app based in php framework symfony 2 with mongo db and twitter bootstrap
-*/
+@author:      Jose Angel Bonfil Evia
+@date:        06/04/2012
+@description: This is a track app based in php framework symfony 2 with mongo db and twitter bootstrap
 
 Symfony Standard Edition
 ========================
